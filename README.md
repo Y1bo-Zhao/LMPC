@@ -36,8 +36,8 @@ make
 sudo make install
 
 运行：
-cd lmy_ws/
+cd xxx_ws/
 source install/setup.bash 
 colcon build
 export LD_LIBRARY_PATH=/usr/local/lib:$LD_LIBRARY_PATH
-ros2 run lmpc lmpc （自定义）
+ros2 run xxx xxx （自定义）
