@@ -1,6 +1,6 @@
-# OSQP 与 OSQP-Eigen 安装指南
+# Read Me
 
-本仓库记录了如何在 Linux 系统中安装 [OSQP](https://github.com/oxfordcontrol/osqp) 和它的 C++ 封装器 [osqp-eigen](https://github.com/robotology/osqp-eigen)。
+本仓库记录了如何在 Linux 系统中安装 [OSQP](https://github.com/oxfordcontrol/osqp) 和它的 C++ 封装器 [osqp-eigen](https://github.com/robotology/osqp-eigen)。并基于OSQP解决LMPC问题
 
 >  `osqp-eigen` 目前与 OSQP 的较新版本可能不兼容。为避免安装失败，建议使用 `OSQP release-0.6.3` 版本。
 
